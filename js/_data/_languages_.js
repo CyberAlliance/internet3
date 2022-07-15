@@ -1,1 +1,1 @@
-const languages = ["en"];
+const languages = ["en","ja"];
